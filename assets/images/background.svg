@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="100%" height="100%" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4F8FA" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="800" fill="url(#bgGrad)" />
+  <!-- Subtle decorative top-right fluid curve -->
+  <path d="M 180 0 C 260 0, 360 40, 400 120 L 400 0 Z" fill="#2196F3" opacity="0.04" />
+  <!-- Subtle decorative bottom-left fluid curve -->
+  <path d="M 0 680 C 60 740, 160 800, 260 800 L 0 800 Z" fill="#2196F3" opacity="0.03" />
+</svg>
